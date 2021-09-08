@@ -1,4 +1,30 @@
-# Bike_Sharing
+# Bike_Sharing_Analysis
 
+## Overview
+The purpose of the mapping earthquake challenge was to adjust an already created mapping showing earthquake data by adding tectonic plate lines and major earth quake options to the map using Javascript, Leaflet.js, and geoJSON. The following deliverables were required.
+  1.  Add Tectonic Plate Data
+  2.  Add Major Earthquake Data
+  3.  Add an Additional Map
+  
+## Resources
+  - Software: Tableau & Jupyter Lab
+  - Code
+    - [Ipynb File](https://github.com/sbretag/Bike_Sharing/blob/main/NYC_Citibike_Challenge.ipynb)
+  - Source Data
+    - Due to size, the actual source files were not added to the repository
+    - Source data can be found at citibike NYC website
+      - [Source Data](https://www.citibikenyc.com/system-data)
+      - 201908-citibike-tripdata.csv.zip
 
-<div class='tableauPlaceholder' id='viz1631069099376' style='position: relative'><noscript><a href='#'><img alt='Bikesharing Story ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3G&#47;3GMY2CKTM&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;3GMY2CKTM' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3G&#47;3GMY2CKTM&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1631069099376');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+## Results
+
+### [Citibike Story](https://public.tableau.com/shared/3GMY2CKTM?:display_count=n&:origin=viz_share_link)
+
+### Visualizations
+
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Checkout%20Times%20by%20Gender%20(Medium).png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Checkout%20Times%20for%20Users%20(Medium).png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour)%20(Medium).png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour%20(Medium).png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday%20(Medium).png)
+
