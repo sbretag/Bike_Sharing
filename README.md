@@ -33,5 +33,12 @@ The purpose of this challenge was to create new visualizations using Tableau to 
 ![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips_ByHour_ByDay_ByGender.png)
 
 
+## Summary
+  - Overall the visualization created in Tableau provide some really good insights into gender usage, usage by time, and trip duration.  The visualizations and data suggest the biggest driver in bike use is related to subscribers using bikes to commute to work in the main business centers of NYC, specfically Manhattan.  The short trip duration suggests customers are using bikes to help get from train station to office or office to train station.  More analysis would be needed but anecdotally, most commuters in Des Moines travel by car rather than train which would suggest that the proposed program may not be as successful.  
+  - Suggested visualizations for future analysis
+    1. Bike utilization chart per station to help determine the optimal amount of bikes needed, this could be shown through a map visualiation with markers that change color by    usage, this will identify hotspots
+    2. Create a Trips_By day heatmap visualization with an age bucket filter which will provide more demographic insights that can be compared to Des Moines in proposal
+
+
 
 
