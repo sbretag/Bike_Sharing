@@ -1,10 +1,10 @@
 # Bike_Sharing_Analysis
 
 ## Overview
-The purpose of the mapping earthquake challenge was to adjust an already created mapping showing earthquake data by adding tectonic plate lines and major earth quake options to the map using Javascript, Leaflet.js, and geoJSON. The following deliverables were required.
-  1.  Add Tectonic Plate Data
-  2.  Add Major Earthquake Data
-  3.  Add an Additional Map
+The purpose of this challenge was to create new visualizations using Tableau to help solidify the analysis in the proposal for a bike share program in Des Moines, IA.  The following deliverables were required.
+  1.  Change Trip Duration in source data to a Datetime Format
+  2.  Create Visualizations for the Trip Analysis
+  3.  Create a Story and Report for the Final Presentation
   
 ## Resources
   - Software: Tableau & Jupyter Lab
@@ -18,9 +18,10 @@ The purpose of the mapping earthquake challenge was to adjust an already created
 
 ## Results
 
-### [Citibike Story](https://public.tableau.com/shared/3GMY2CKTM?:display_count=n&:origin=viz_share_link)
+### [Tableau Citibike Story](https://public.tableau.com/shared/3GMY2CKTM?:display_count=n&:origin=viz_share_link)
 
 ### Visualizations
+    - Description & insights can be found in textboxes imbedded in each image below
 
 ![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Gender_Breakdown.png)
 ![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Customer_Type_Breakdown.png)
