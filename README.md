@@ -22,9 +22,15 @@ The purpose of the mapping earthquake challenge was to adjust an already created
 
 ### Visualizations
 
-![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Checkout%20Times%20by%20Gender%20(Medium).png)
-![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Checkout%20Times%20for%20Users%20(Medium).png)
-![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour)%20(Medium).png)
-![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour%20(Medium).png)
-![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday%20(Medium).png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Gender_Breakdown.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Customer_Type_Breakdown.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trip_Duration.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trip_Duration_By_Vendor.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/CustomerTrips_ByDay_ByGender.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/SubscriberTrips_ByDay_ByGender.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips_ByHour_ByDay.png)
+![image](https://github.com/sbretag/Bike_Sharing/blob/main/Images/Trips_ByHour_ByDay_ByGender.png)
+
+
+
 
