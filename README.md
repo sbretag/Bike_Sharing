@@ -1,7 +1,7 @@
-# Bike_Sharing_Analysis
+# Bikeshare Analysis
 
 ## Overview
-The purpose of this challenge was to create new visualizations using Tableau to help solidify the analysis in the proposal for a bike share program in Des Moines, IA.  The following deliverables were required.
+The purpose of this challenge was to create new visualizations using Tableau to help provides insights and analysis for the proposal of bike share program in Des Moines, IA.  The following deliverables were required.
   1.  Change Trip Duration in source data to a Datetime Format
   2.  Create Visualizations for the Trip Analysis
   3.  Create a Story and Report for the Final Presentation
